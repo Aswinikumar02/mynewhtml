@@ -1,0 +1,16 @@
+body
+{
+	background: #D3D3D3;
+}
+div
+{
+	width: 500px;
+	margin: auto;
+}
+
+blockquote
+{
+	text-align: center;
+    border: 1px solid black;
+    margin-left:0;
+}
